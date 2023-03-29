@@ -1,18 +1,27 @@
 .container{
     background-color: grey;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
     border-radius: 15px;
+}
+
+.cabecera{
+    padding: 10px;
+    border: 1px solid black;
+    background-color: rgb(192, 188, 188);
+}
+
+.cabecera h1{
+    color: black;
 }
 
 h1{
     font-size: 50px;
     color: white;
+    text-align: center;
 }
 
 p{
+    text-align: center;
     color: rgb(0, 0, 0);
     font-size: 30px;
 }
+
