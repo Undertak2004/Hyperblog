@@ -1,0 +1,18 @@
+.container{
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    border-radius: 15px;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-size: 30px;
+}
