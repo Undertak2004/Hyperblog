@@ -30,7 +30,6 @@ h1{
     text-align: center;
     font-size: 50px;
     color: white;
-
 }
 
 p{
@@ -39,3 +38,11 @@ p{
     font-size: 30px;
 }
 
+.footer{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    padding-bottom: 10px;
+    background-color: grey;
+    border-radius: 0px 0px 15px 15px;
+}
