@@ -38,6 +38,13 @@ p{
     font-size: 30px;
 }
 
+
+.img1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .footer{
     text-align: center;
     color: white;
