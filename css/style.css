@@ -27,4 +27,11 @@ p{
     color: rgb(0, 0, 0);
     font-size: 30px;
 }
-
+.gif{
+    display: flex;
+    max-width: 100px;
+    margin: 0 auto;
+}
+.muñequito{
+    padding: 20 0 20 0;
+}
