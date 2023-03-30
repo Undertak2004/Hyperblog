@@ -13,13 +13,17 @@
     padding-left: 0px;
 }
 
-.cabecera img{
-   width: 200px;
+.cabecera #logo{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   text-align: center;
+
 }
 
 .cabecera h1{
     color: black;
-    text-align: left;
+    text-align: center;
 }
 
 h1{
